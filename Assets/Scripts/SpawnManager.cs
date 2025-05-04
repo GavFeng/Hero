@@ -32,6 +32,7 @@ public class SpawnManager : MonoBehaviour
     {
         for (int i = 0; i < count; i++)
         {
+            GameManager.Instance.UpdateEnemyCount(1);
             Vector3 spawnPos = new Vector3(
                 Random.Range(-spawnRangeX, spawnRangeX),
                 Random.Range(-spawnRangeY, spawnRangeY),

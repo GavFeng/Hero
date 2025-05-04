@@ -18,6 +18,7 @@ public class OutofBounds : MonoBehaviour
         Vector2 pos = transform.position;
         if (pos.x < minX || pos.x > maxX || pos.y < minY || pos.y > maxY)
         {
+            GameManager.Instance.DecreaseEggCount();
             Destroy(gameObject);
         }
     }
