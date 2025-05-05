@@ -232,7 +232,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 23.9519, y: -177}
+  m_AnchoredPosition: {x: -36.0481, y: -201}
   m_SizeDelta: {x: 136.7129, y: 21.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &425347311
@@ -643,7 +643,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -189, y: -177}
+  m_AnchoredPosition: {x: -249, y: -201}
   m_SizeDelta: {x: 285.8, y: 21.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &815546403
@@ -816,7 +816,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -972,7 +972,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 7816754129757067227, guid: 94f73d800ef7629408ab19a314a1e63b, type: 3}
   maxEnemies: 10
-  spawnRangeX: 10
+  spawnRangeX: 8
   spawnRangeY: 4.5
   spawnRangeZ: 8
 --- !u!1 &1470248573
@@ -1246,7 +1246,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 211.1, y: -179.2}
+  m_AnchoredPosition: {x: 151.1, y: -203.20001}
   m_SizeDelta: {x: 232.0344, y: 21.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1807020247
